@@ -1,0 +1,28 @@
+_repo: Over-Strand-and-Field--A-Record-of-Travel-through-Brittany_14233
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_issued: '2004-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Description and travel'
+- !lcc 'DC'
+- !lcc 'PQ'
+title: 'Over Strand and Field: A Record of Travel through Brittany'
+url: http://www.gutenberg.org/ebooks/14233
